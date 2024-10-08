@@ -50,19 +50,8 @@ h1 {
     padding-left: 20px;
     padding-right: 20px;
   }
-  .MARíliAMENDONÇA {
-    background: rgb(94, 78, 148);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-  }
+ 
 /* código omitido */
-
-.MARíliAMENDONÇA {
-  padding-left: 20px;
-  padding-right: 20px;
-}
 
   .ZÉNETOECRISTIANO {
     display: flex;
@@ -80,18 +69,3 @@ h1 {
   
 
   /* código omitido */
-
-  .chamada {
-    background: rgb(167, 213, 156);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-  }
-
-  /* código omitido */
-
-.categoria {
-  padding-left: 20px;
-  padding-right: 20px;
-}
