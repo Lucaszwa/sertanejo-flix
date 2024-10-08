@@ -1,4 +1,5 @@
 
+
 body {
     color: white;
     background: black;
@@ -36,6 +37,9 @@ h1 {
     height: 200px;
   }
 
+
+  
+  
   .MARíliAMENDONÇA {
     display: flex;
     overflow-x: auto;
@@ -46,6 +50,20 @@ h1 {
     padding-left: 15px;
     padding-right: 15px;
   }
+  .MARíliAMENDONÇA {
+    background: rgb(94, 78, 148);
+    padding-bottom: 60px;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+  }
+/* código omitido */
+
+.MARíliAMENDONÇA {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
   .ZÉNETOECRISTIANO {
     display: flex;
     overflow-x: auto;
@@ -60,23 +78,20 @@ h1 {
     font-size: 20px;
   }
   
-  
+
   /* código omitido */
-  
-  section {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-  .MARíliAMENDONÇA {
-    background: rgb(94, 78, 148);
-    padding-bottom: 60px;
-    padding-top: 60px;
+
+  .chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
     justify-content: center;
   }
-/* código omitido */
 
-.MARíliAMENDONÇA {
+  /* código omitido */
+
+.categoria {
   padding-left: 20px;
   padding-right: 20px;
 }
