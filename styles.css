@@ -47,8 +47,8 @@ h1 {
   }
   
   section {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
   .MARíliAMENDONÇA {
     background: rgb(94, 78, 148);
@@ -82,7 +82,7 @@ h1 {
   /* código omitido */
 
   .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(167, 213, 156);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
