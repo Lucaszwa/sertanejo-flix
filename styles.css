@@ -17,8 +17,8 @@ header {
 
 section {
     background: rgb(0, 0, 0);
-    padding-bottom: 80px;
-    padding-top: 80px;
+    padding-bottom: 30px;
+    padding-top: 30px;
     display: flex;
     justify-content: center;
 }
@@ -43,7 +43,7 @@ h1 {
   .MARíliAMENDONÇA {
     display: flex;
     overflow-x: auto;
-    gap: 1px;
+    gap: 10px;
   }
   
   section {
@@ -56,7 +56,7 @@ h1 {
   .ZÉNETOECRISTIANO {
     display: flex;
     overflow-x: auto;
-    gap: 1px;
+    gap: 10px;
   }
   
   section {
