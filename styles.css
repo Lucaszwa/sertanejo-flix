@@ -43,7 +43,7 @@ h1 {
   .MARíliAMENDONÇA {
     display: flex;
     overflow-x: auto;
-    gap: 5px;
+    gap: 1px;
   }
   
   section {
@@ -56,7 +56,7 @@ h1 {
   .ZÉNETOECRISTIANO {
     display: flex;
     overflow-x: auto;
-    gap: 5px;
+    gap: 1px;
   }
   
   section {
