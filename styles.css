@@ -38,8 +38,7 @@ section {
   p {
     font-size: 20px;
     color: rgb(85, 42, 228) ;
-    justify-content: center;
-    display: flex;
+    display: left;
   }
   img {
     height: 200px;
