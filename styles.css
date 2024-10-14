@@ -23,7 +23,7 @@ section {
     display: flex;
     justify-content: center;
   }
-  section {
+  .pp {
     display: flex;
     justify-content: left;
   }
