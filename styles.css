@@ -29,29 +29,40 @@ section {
     padding-left: 20px;
     padding-right: 20px;
   }
- 
-
-.chamada-texto {
+  
+  
+  .chamada-texto {
     margin-right: 5%;
-}
-p {
-  font-size: 20px;
-}
-img {
-  height: 200px;
+  }
+  p {
+    font-size: 20px;
+  }
+  img {
+    height: 200px;
   }
   
   
+
   .MARíliAMENDONÇA {
     display: flex;
     overflow-x: auto;
     gap: 10px;
   }
   
-  section {
-    padding-left: 5px;
-    padding-right: 5px;
+  .MARíliAMENDONÇA img {
+    opacity: 0.5;
+    height: 200px
   }
+  
+  .MARíliAMENDONÇA img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+  }
+  section {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
   
   
   .ZÉNETOECRISTIANO {
@@ -59,24 +70,44 @@ img {
     overflow-x: auto;
     gap: 10px;
   }
-  
+  .ZÉNETOECRISTIANO img {
+    opacity: 0.5;
+    height: 200px
+}
+
+.ZÉNETOECRISTIANO img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
   section {
     padding-left: 20px;
     padding-right: 20px;
   }
+
+
   
   .HENRIQUEEJULIANO {
     display: flex;
     overflow-x: auto;
     gap: 10px;
   }
-  
+    .HENRIQUEEJULIANO img {
+    opacity: 0.5;
+    height: 200px
+}
+
+.HENRIQUEEJULIANO img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
   section {
     padding-left: 20px;
     padding-right: 20px;
     
   }
   
+
+
   h1 {
       font-size: 40px;
     }
@@ -93,12 +124,3 @@ img {
     font-size: 20px;
   }
   /* código omitido */
-  .MARíliAMENDONÇA img {
-    opacity: 0.5;
-    height: 200px
-}
-
-.MARíliAMENDONÇA img:hover {
-    opacity: 1.0;
-    border: 1px solid green;
-}
