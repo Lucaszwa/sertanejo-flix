@@ -36,7 +36,8 @@ section {
     margin-right: 5%;
   }
   p {
-    font-size: 5px;
+    font-size: 10px;
+    color: rgb(85, 42, 228) ;
   }
   img {
     height: 200px;
