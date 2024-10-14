@@ -54,12 +54,12 @@ section {
 }
 
 .MARíliAMENDONÇA img:hover {
-    opacity: 10.0;
+    opacity: 1.0;
     border: 1px solid rgb(0, 0, 0);
 }
   section {
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
     
   }
   
@@ -113,7 +113,7 @@ section {
       font-size: 40px;
     }
   h2 {
-    font-size: 20px;
+    font-size: 200px;
   }
   h3 {
     font-size: 20px;
