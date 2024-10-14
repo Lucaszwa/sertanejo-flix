@@ -23,10 +23,7 @@ section {
     display: flex;
     justify-content: center;
   }
-  .pp {
-    display: flex;
-    justify-content: left;
-  }
+  
   /* código omitido */
 
   section {
