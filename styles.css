@@ -55,7 +55,7 @@ section {
 
 .MARíliAMENDONÇA img:hover {
     opacity: 1.0;
-    border: 1px solid green;
+    border: 1px solid rgb(0, 0, 0);
 }
   section {
     padding-left: 20px;
@@ -63,7 +63,7 @@ section {
     
   }
 
-  
+
   
   .ZÉNETOECRISTIANO {
     display: flex;
@@ -77,7 +77,7 @@ section {
 
 .ZÉNETOECRISTIANO img:hover {
     opacity: 1.0;
-    border: 1px solid green;
+    border: 1px solid rgb(0, 0, 0);
 }
   section {
     padding-left: 20px;
@@ -98,7 +98,7 @@ section {
 
 .HENRIQUEEJULIANO img:hover {
     opacity: 1.0;
-    border: 1px solid green;
+    border: 1px solid rgb(0, 0, 0);
 }
   section {
     padding-left: 20px;
