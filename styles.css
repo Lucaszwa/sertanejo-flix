@@ -43,25 +43,9 @@ section {
   
 
 
-  .MARíliAMENDONÇA {
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-  }
-  .MARíliAMENDONÇA img {
-    opacity: 0.5;
-    height: 200px
-}
-
-.MARíliAMENDONÇA img:hover {
-    opacity: 1.0;
-    border: 1px solid rgb(0, 0, 0);
-}
-  section {
-    padding-left: 20px;
-    padding-right: 20px;
+ 
     
-  }
+
 
 
   
