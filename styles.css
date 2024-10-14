@@ -93,12 +93,12 @@ img {
     font-size: 20px;
   }
   /* código omitido */
-  .categoria-videos img {
+  .MARíliAMENDONÇA img {
     opacity: 0.5;
     height: 200px
 }
 
-.categoria-videos img:hover {
+.MARíliAMENDONÇA img:hover {
     opacity: 1.0;
     border: 1px solid green;
 }
