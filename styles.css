@@ -25,7 +25,7 @@ section {
   }
   
   /* código omitido */
-
+  
   section {
     padding-left: 20px;
     padding-right: 20px;
@@ -38,28 +38,28 @@ section {
   p {
     font-size: 20px;
     color: rgb(85, 42, 228) ;
-    display: left;
+     display: left; ;
   }
   img {
     height: 200px;
   }
-
- 
-
+  
+  
+  
   .MARíliAMENDONÇA {
     display: flex;
     overflow-x: auto;
     gap: 10px;
   }
-    .MARíliAMENDONÇA img {
+  .MARíliAMENDONÇA img {
     opacity: 0.5;
     height: 200px
-}
-
-.MARíliAMENDONÇA img:hover {
+  }
+  
+  .MARíliAMENDONÇA img:hover {
     opacity: 1.0;
     border: 1px solid rgb(0, 0, 0);
-}
+  }
   section {
     padding-left: 20px;
     padding-right: 20px;
@@ -67,81 +67,81 @@ section {
   }
   
 
-
+  
   .ZÉNETOECRISTIANO {
     display: flex;
     overflow-x: auto;
     gap: 10px;
   }
-    .ZÉNETOECRISTIANO img {
+  .ZÉNETOECRISTIANO img {
     opacity: 0.5;
     height: 200px
-}
-
-.ZÉNETOECRISTIANO img:hover {
+  }
+  
+  .ZÉNETOECRISTIANO img:hover {
     opacity: 1.0;
     border: 1px solid rgb(0, 0, 0);
-}
+  }
   section {
     padding-left: 20px;
     padding-right: 20px;
     
   }
   
-
-
+  
+  
   .HENRIQUEEJULIANO {
     display: flex;
     overflow-x: auto;
     gap: 10px;
   }
-    .HENRIQUEEJULIANO img {
+  .HENRIQUEEJULIANO img {
     opacity: 0.5;
     height: 200px
-}
-
-.HENRIQUEEJULIANO img:hover {
+  }
+  
+  .HENRIQUEEJULIANO img:hover {
     opacity: 1.0;
     border: 1px solid rgb(0, 0, 0);
-}
+  }
   section {
     padding-left: 20px;
     padding-right: 20px;
     
   }
   
-
+  
   .MAIARAEMARAISA {
     display: flex;
     overflow-x: auto;
     gap: 10px;
   }
-    .MAIARAEMARAISA  img {
+  .MAIARAEMARAISA  img {
     opacity: 0.5;
     height: 200px
-}
-
-.MAIARAEMARAISA  img:hover {
+  }
+  
+  .MAIARAEMARAISA  img:hover {
     opacity: 1.0;
     border: 1px solid rgb(0, 0, 0);
-}
+  }
   section {
     padding-left: 20px;
     padding-right: 20px;
     
   }
-
-
-
+  
+  
+  
   h1 {
-      font-size: 40px;
-    }
+    font-size: 40px;
+  }
   h2 {
     font-size: 21px;
   }
   h3 {
-    font-size: 20px;
   }
+    font-size: 20px;
   h4 {
     font-size: 20px;
   } 
@@ -149,6 +149,7 @@ section {
     font-size: 20px;
   }
   h6 {
-    font-size: 18px;
+    font-size: 20px;
+    display: left;
   }
   /* código omitido */
