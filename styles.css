@@ -39,7 +39,7 @@ section {
     font-size: 20px;
     color: rgb(85, 42, 228) ;
      display: flex;
-     justify-content: center
+     justify-content: right
   }
   img {
     height: 200px;
