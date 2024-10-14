@@ -38,7 +38,7 @@ section {
   p {
     font-size: 20px;
     color: rgb(85, 42, 228) ;
-     display: flex ;
+     display: flex;
      justify-content: center
   }
   img {
@@ -151,6 +151,7 @@ section {
   }
   h6 {
     font-size: 20px;
-    display: left;
+    display: flex;
+    justify-content: left;
   }
   /* código omitido */
