@@ -152,6 +152,6 @@ section {
   h6 {
     font-size: 20px;
     display: flex;
-    justify-content: left;
+    justify-content: right;
   }
   /* código omitido */
