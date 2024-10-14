@@ -23,6 +23,10 @@ section {
     display: flex;
     justify-content: center;
   }
+  section {
+    display: flex;
+    justify-content: right;
+  }
   /* código omitido */
 
   section {
