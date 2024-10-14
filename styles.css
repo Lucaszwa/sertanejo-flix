@@ -33,17 +33,13 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
-h1 {
-    font-size: 40px;
+p {
+  font-size: 70px;
+}
+img {
+  height: 200px;
   }
   
-  p {
-    font-size: 20px;
-  }
-  img {
-    height: 200px;
-  }
-
   
   .MARíliAMENDONÇA {
     display: flex;
@@ -55,8 +51,8 @@ h1 {
     padding-left: 20px;
     padding-right: 20px;
   }
- 
-
+  
+  
   .ZÉNETOECRISTIANO {
     display: flex;
     overflow-x: auto;
@@ -67,7 +63,7 @@ h1 {
     padding-left: 20px;
     padding-right: 20px;
   }
-
+  
   .HENRIQUEEJULIANO {
     display: flex;
     overflow-x: auto;
@@ -77,14 +73,22 @@ h1 {
   section {
     padding-left: 20px;
     padding-right: 20px;
+    
+  }
+  
+  h1 {
+      font-size: 40px;
+    }
+  h2 {
+    font-size: 20px;
   }
   h3 {
     font-size: 20px;
   }
-  h2 {
-    font-size: 20px;
-  }
   h4 {
+    font-size: 20px;
+  } 
+  h5 {
     font-size: 20px;
   }
   /* código omitido */
