@@ -21,7 +21,7 @@ section {
     padding-bottom: 15px;
     padding-top: 15px;
     display: flex;
-    justify-content: start;
+    justify-content: center;
   }
   /* código omitido */
 
@@ -49,7 +49,7 @@ section {
     gap: 10px;
   }
     .MARíliAMENDONÇA img {
-    opacity: 0.5;
+    opacity: 1.0;
     height: 200px
 }
 
